@@ -1,8 +1,4 @@
-# JOVE: Jupiter Optical Velocity Estimation
-### Programme Structure
-
-**Team**: K. Srinivasan (UCLA), L. Siegelman (Scripps/Caltech), N. Pizzo (Scripps), L. Lenain (Scripps)
-
+Jovian 
 ---
 
 ## 1. Motivation and concept
