@@ -11,8 +11,6 @@ for weather and climate simulation.
     - Code: [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
     - Trained model weights: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
-# DYNAMICAL-CORE.md
-
 A detailed code review of the Dinosaur dynamical core used by NeuralGCM.
 
 Source: https://github.com/neuralgcm/dinosaur
